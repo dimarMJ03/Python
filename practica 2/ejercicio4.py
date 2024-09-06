@@ -1,6 +1,5 @@
 # la funcion concatena una palabra y un numero
 def concatenar(palabra,numero):
-  cadena=palabra+str(numero)
   cadena=palabra +""+ str(numero)
   return cadena
 
